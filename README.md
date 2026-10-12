@@ -14,7 +14,7 @@ NeuraShield SG checks a chat conversation for Singapore scam scripts and online 
 
 ## Background
 
-This is the Singapore version of NeuraShield Lite, made for Samsung Solve for Tomorrow 2026 under the Trust, Security and Privacy theme.
+This is the Singapore version of [NeuraShield Lite](https://github.com/arjunjono/NeuraShield-Lite), made for Samsung Solve for Tomorrow 2026 under the Trust, Security and Privacy theme.
 
 Lite is a general tool. Most scams young people in Singapore actually see are local: messages pretending to be DBS, Singpass, IRAS or SingPost, PayNow requests, job and task scams, money mule offers. A general filter misses a lot of these, so I took Lite's engine and localised it, added a grooming detector aimed at school-age users, and tested it on Singapore-style chats, including Singlish.
 
