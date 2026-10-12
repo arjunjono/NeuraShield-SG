@@ -1,0 +1,702 @@
+[
+  {
+    "id": "legit01",
+    "label": "legit",
+    "subtype": "food",
+    "singlish": true,
+    "text": "Wei Jie: later steamboat still on anot\nYou: ya my place 7\nWei Jie: nice i settle you back after\nYou: relax lah next time can already"
+  },
+  {
+    "id": "legit02",
+    "label": "legit",
+    "subtype": "study",
+    "singlish": false,
+    "text": "Hui Ling: you understand question four\nYou: not really, the integration part is confusing\nHui Ling: let's hop on a call tonight and sort it out\nYou: sounds good, eight works"
+  },
+  {
+    "id": "legit03",
+    "label": "legit",
+    "subtype": "errand",
+    "singlish": false,
+    "text": "Mum: grab some bread before you come back\nYou: white or wholemeal\nMum: whichever, and a carton of milk\nYou: okay on it"
+  },
+  {
+    "id": "legit04",
+    "label": "legit",
+    "subtype": "cca",
+    "singlish": true,
+    "text": "Darsheel: training tmr same time or changed\nYou: still four, court two\nDarsheel: ok you bring the bibs hor\nYou: got them already"
+  },
+  {
+    "id": "legit05",
+    "label": "legit",
+    "subtype": "delivery",
+    "singlish": true,
+    "text": "You: checked the tracking, my hoodie ships tomorrow\nAva: took forever sia\nYou: online sales always slow\nAva: worth it if cheap"
+  },
+  {
+    "id": "legit06",
+    "label": "legit",
+    "subtype": "project",
+    "singlish": false,
+    "text": "Kabeer: uploaded the deck, you're on diagrams\nYou: and the conclusion right\nKabeer: yes, done by friday please\nYou: will do, library at recess to review?"
+  },
+  {
+    "id": "legit07",
+    "label": "legit",
+    "subtype": "app",
+    "singlish": true,
+    "text": "You: eh my banking app keep hanging\nKevin: restart lah, mine was lagging just now too\nYou: oh ok working already\nKevin: ya just needs a refresh sometimes"
+  },
+  {
+    "id": "legit08",
+    "label": "legit",
+    "subtype": "gaming",
+    "singlish": true,
+    "text": "Ryan: new banner dropping tonight sia\nYou: i've been hoarding my currency for weeks\nRyan: same, co-op later?\nYou: ping me when you're free"
+  },
+  {
+    "id": "legit09",
+    "label": "legit",
+    "subtype": "hangout",
+    "singlish": true,
+    "text": "Jia Hui: orchard this sat, you free\nYou: ya what time\nJia Hui: somerset noon\nYou: confirm, eat first ah i'm always hungry"
+  },
+  {
+    "id": "legit10",
+    "label": "legit",
+    "subtype": "teacher",
+    "singlish": false,
+    "text": "Ms Tan: deadline for the essay is pushed to monday\nYou: thanks miss\nMs Tan: email me if anything's unclear\nYou: noted"
+  },
+  {
+    "id": "legit11",
+    "label": "legit",
+    "subtype": "bill",
+    "singlish": true,
+    "text": "Aaron: movie and snacks came up to twenty eight\nYou: sending my half now\nAaron: thanks bro\nYou: done"
+  },
+  {
+    "id": "legit12",
+    "label": "legit",
+    "subtype": "sports",
+    "singlish": false,
+    "text": "Coach: solid session, rest up\nYou: my legs are gone\nCoach: means you pushed hard, thursday again\nYou: see you coach"
+  },
+  {
+    "id": "legit13",
+    "label": "legit",
+    "subtype": "sibling",
+    "singlish": true,
+    "text": "Sister: buy me bbt on the way home leh\nYou: what flavour\nSister: brown sugar less ice\nYou: ok pay me back ah"
+  },
+  {
+    "id": "legit14",
+    "label": "legit",
+    "subtype": "recipe",
+    "singlish": false,
+    "text": "Priya: found a pasta recipe we should try\nYou: send it over\nPriya: just pinned it to our chat\nYou: looks simple enough, weekend?"
+  },
+  {
+    "id": "legit15",
+    "label": "legit",
+    "subtype": "admin",
+    "singlish": false,
+    "text": "You: excursion form due today right\nRachel: yes, class rep before two\nYou: signed already\nRachel: bring five bucks for the coach too"
+  },
+  {
+    "id": "legit16",
+    "label": "legit",
+    "subtype": "surprise",
+    "singlish": true,
+    "text": "Marcus: darsheel bday this weekend, surprise him?\nYou: yes where\nMarcus: my house, everyone chips in for cake\nYou: ok note me down for my share"
+  },
+  {
+    "id": "legit17",
+    "label": "legit",
+    "subtype": "lost",
+    "singlish": false,
+    "text": "You: think i left my bottle in class\nNabil: blue one? it's on your desk\nYou: can you keep it for me\nNabil: in my bag, grab it tomorrow"
+  },
+  {
+    "id": "legit18",
+    "label": "legit",
+    "subtype": "tuition",
+    "singlish": false,
+    "text": "Tutor: session moves to five this week\nYou: understood\nTutor: finish the trig sheet beforehand\nYou: i'll get it done"
+  },
+  {
+    "id": "legit19",
+    "label": "legit",
+    "subtype": "trip",
+    "singlish": true,
+    "text": "Hui Ling: jb next hols, who's in\nYou: me, parents driving?\nHui Ling: ya my dad's van\nYou: bring passport, don't forget"
+  },
+  {
+    "id": "legit20",
+    "label": "legit",
+    "subtype": "photos",
+    "singlish": false,
+    "text": "Ava: send the cafe group photo\nYou: the one by the window\nAva: yes want to post it\nYou: sending now"
+  },
+  {
+    "id": "legit21",
+    "label": "legit",
+    "subtype": "canteen",
+    "singlish": true,
+    "text": "You: you at the canteen\nJun Hao: near the drinks stall\nYou: wait ah, buying chicken rice\nJun Hao: faster lah recess ending"
+  },
+  {
+    "id": "legit22",
+    "label": "legit",
+    "subtype": "allowance",
+    "singlish": false,
+    "text": "Dad: sent your allowance to your account\nYou: got it, thanks pa\nDad: budget it properly\nYou: i will"
+  },
+  {
+    "id": "legit23",
+    "label": "legit",
+    "subtype": "group",
+    "singlish": false,
+    "text": "Kevin: study session sunday my place\nYou: who else\nKevin: you, kabeer, darsheel, two pm\nYou: bringing notes and laptop"
+  },
+  {
+    "id": "legit24",
+    "label": "legit",
+    "subtype": "tickets",
+    "singlish": true,
+    "text": "Sarah: tickets go live tmr ten am\nYou: i'm so hyped sia\nSarah: whoever gets through first buys for both\nYou: alarm's set"
+  },
+  {
+    "id": "legit25",
+    "label": "legit",
+    "subtype": "topup",
+    "singlish": false,
+    "text": "You: data almost out\nBrother: top up in the app lah\nYou: oh right can do it inside\nBrother: ya no need to call"
+  },
+  {
+    "id": "legit26",
+    "label": "legit",
+    "subtype": "help",
+    "singlish": false,
+    "text": "You: explain question seven please\nHui Ling: the mole one?\nYou: yeah\nHui Ling: call me, it's actually easy once you see it"
+  },
+  {
+    "id": "legit27",
+    "label": "legit",
+    "subtype": "cycle",
+    "singlish": true,
+    "text": "Aaron: weekend plans?\nYou: nothing yet\nAaron: cycle east coast?\nYou: morning better, less hot, meet at the connector eight"
+  },
+  {
+    "id": "legit28",
+    "label": "legit",
+    "subtype": "club",
+    "singlish": false,
+    "text": "President: cipher meeting friday three pm, lab two\nYou: noted\nPresident: ctf prep, bring laptops\nYou: see you then"
+  },
+  {
+    "id": "legit29",
+    "label": "legit",
+    "subtype": "order",
+    "singlish": true,
+    "text": "You: ordered mac on grab\nSister: get me fries leh\nYou: too late checked out already\nSister: aiyo next time"
+  },
+  {
+    "id": "legit30",
+    "label": "legit",
+    "subtype": "grandma",
+    "singlish": false,
+    "text": "Grandma: send auntie a photo of your uniform\nYou: taking now ma\nGrandma: so smart, i'll show my friends\nYou: haha okay"
+  },
+  {
+    "id": "legit31",
+    "label": "legit",
+    "subtype": "library",
+    "singlish": false,
+    "text": "You: book's due tomorrow\nKabeer: renew it online\nYou: oh that's a thing?\nKabeer: through the app, super easy"
+  },
+  {
+    "id": "legit32",
+    "label": "legit",
+    "subtype": "match",
+    "singlish": true,
+    "text": "Ryan: we won sia\nYou: steady what score\nRyan: three one, darsheel scored twice\nYou: shiok celebrate later"
+  },
+  {
+    "id": "legit33",
+    "label": "legit",
+    "subtype": "nerves",
+    "singlish": false,
+    "text": "You: nervous about tomorrow's presentation\nMs Tan: you prepared well, you'll be fine\nYou: thanks miss, practising tonight\nMs Tan: speak slowly, you've got this"
+  },
+  {
+    "id": "legit34",
+    "label": "legit",
+    "subtype": "owe",
+    "singlish": true,
+    "text": "Jia Hui: you owe me for printing\nYou: how much\nJia Hui: three bucks only\nYou: sending, thanks for printing"
+  },
+  {
+    "id": "legit35",
+    "label": "legit",
+    "subtype": "cny",
+    "singlish": false,
+    "text": "Cousin: cny at your place or mine\nYou: mine, come early\nCousin: we'll bring the tarts\nYou: perfect"
+  },
+  {
+    "id": "legit36",
+    "label": "legit",
+    "subtype": "taxes",
+    "singlish": false,
+    "text": "Dad: doing my taxes this weekend\nYou: the government portal thing\nDad: yeah, log in and file, quite quick\nYou: sounds tedious though"
+  },
+  {
+    "id": "legit37",
+    "label": "legit",
+    "subtype": "gift",
+    "singlish": true,
+    "text": "Sarah: ms tan retiring, group gift?\nYou: good idea how much each\nSarah: five each enough\nYou: putting in my share"
+  },
+  {
+    "id": "legit38",
+    "label": "legit",
+    "subtype": "directions",
+    "singlish": false,
+    "text": "You: how do i get to yours\nKevin: mrt to sengkang then bus eighty seven\nYou: which stop\nKevin: i'll drop a pin, after the coffeeshop"
+  },
+  {
+    "id": "legit39",
+    "label": "legit",
+    "subtype": "post",
+    "singlish": true,
+    "text": "Ava: post the selfie leh so nice\nYou: putting it on close friends\nAva: tag me ah\nYou: of course"
+  },
+  {
+    "id": "legit40",
+    "label": "legit",
+    "subtype": "exams",
+    "singlish": false,
+    "text": "You: o levels stressing me out\nHui Ling: same but we'll manage\nYou: one paper at a time\nHui Ling: and sleep properly, don't burn out"
+  },
+  {
+    "id": "legit41",
+    "label": "legit",
+    "subtype": "parcel",
+    "singlish": false,
+    "text": "You: my earphones arrived\nSister: fast, what brand\nYou: the cheap ones, decent though\nSister: lend me later"
+  },
+  {
+    "id": "legit42",
+    "label": "legit",
+    "subtype": "hobby",
+    "singlish": true,
+    "text": "Nabil: still into photography\nYou: yeah just got a new lens\nNabil: show me your shots\nYou: sending my album link"
+  },
+  {
+    "id": "legit43",
+    "label": "legit",
+    "subtype": "stayback",
+    "singlish": false,
+    "text": "Ms Tan: can you stay back to chat about your essay\nYou: sure, is something wrong\nMs Tan: no it's excellent, i want to suggest a competition\nYou: oh thank you, i'll stay"
+  },
+  {
+    "id": "legit44",
+    "label": "legit",
+    "subtype": "sleepover",
+    "singlish": false,
+    "text": "Kevin: staying at kabeer's friday, coming?\nYou: parents said ok\nKevin: bring your console\nYou: confirmed"
+  },
+  {
+    "id": "legit45",
+    "label": "legit",
+    "subtype": "bankhelp",
+    "singlish": false,
+    "text": "You: how do i check my balance\nDad: open the app, log in with your face\nYou: oh there it is\nDad: always use the official app ok"
+  },
+  {
+    "id": "legit46",
+    "label": "legit",
+    "subtype": "volunteer",
+    "singlish": false,
+    "text": "Coordinator: thanks for signing up for the cleanup\nYou: glad to help, what time\nCoordinator: nine am saturday, east coast carpark c\nYou: i'll be there"
+  },
+  {
+    "id": "legit47",
+    "label": "legit",
+    "subtype": "joke",
+    "singlish": true,
+    "text": "Ryan: buy me game credits for my bday can haha\nYou: cheapskate, fine how much\nRyan: joking lah just come to my party\nYou: haha okay confirmed"
+  },
+  {
+    "id": "legit48",
+    "label": "legit",
+    "subtype": "recommend",
+    "singlish": false,
+    "text": "Priya: any shows to recommend\nYou: just finished a good one on netflix\nPriya: name?\nYou: i'll text you the title"
+  },
+  {
+    "id": "legit49",
+    "label": "legit",
+    "subtype": "homework",
+    "singlish": false,
+    "text": "You: what's the math homework\nJun Hao: exercise five point two, one to ten\nYou: due?\nJun Hao: tuesday, quite a lot"
+  },
+  {
+    "id": "legit50",
+    "label": "legit",
+    "subtype": "support",
+    "singlish": true,
+    "text": "Darsheel: don't stress the test lah you studied hard\nYou: hope i pass\nDarsheel: confirm can, you always worry for nothing\nYou: haha thanks bro"
+  },
+  {
+    "id": "scam01",
+    "label": "scam",
+    "subtype": "bank",
+    "singlish": false,
+    "text": "Unknown: Good afternoon, I'm from the fraud desk of your bank about some irregular charges we flagged.\nYou: which bank is this\nUnknown: For security I can't state that here. Please confirm the code we just messaged you so I can reverse the charge before it clears.\nYou: that feels off\nUnknown: I understand, but this settles in minutes and becomes irreversible. Kindly read it out."
+  },
+  {
+    "id": "scam02",
+    "label": "scam",
+    "subtype": "singpass",
+    "singlish": false,
+    "text": "Unknown: Notice: access to your national digital identity is frozen after a suspicious sign-in.\nYou: what sign in\nUnknown: From an overseas device. To restore it, log in through the secure portal we linked and re-confirm your particulars.\nYou: can't i use the real site\nUnknown: The window to self-restore closes today. Use the link or it stays locked."
+  },
+  {
+    "id": "scam03",
+    "label": "scam",
+    "subtype": "parcel",
+    "singlish": true,
+    "text": "Unknown: hihi your delivery cannot go through leh, address got problem\nYou: which delivery ah\nUnknown: your recent one lah. small fee to arrange redelivery, just tap the link and settle\nYou: why need to pay\nUnknown: standard one lah don't worry, faster you pay faster it comes, before it goes back"
+  },
+  {
+    "id": "scam04",
+    "label": "scam",
+    "subtype": "job",
+    "singlish": true,
+    "text": "Unknown: hihi looking for people to do simple online work from home, quite good money leh\nYou: what kind of work\nUnknown: just watch and rate some clips, we pay per task, very relax one\nYou: ok then\nUnknown: to activate your earnings account you put in fifty first, then everything unlocks and payouts start"
+  },
+  {
+    "id": "scam05",
+    "label": "scam",
+    "subtype": "otp",
+    "singlish": false,
+    "text": "Unknown: This is your bank. Someone attempted to add a new recipient just now.\nYou: that wasn't me\nUnknown: Then we must block it. Tell me the security number sent to your phone so I can cancel the change.\nYou: hold on\nUnknown: There's no time, the transfer could go through. Give me the number now."
+  },
+  {
+    "id": "scam06",
+    "label": "scam",
+    "subtype": "tax",
+    "singlish": false,
+    "text": "Unknown: Official notice regarding outstanding tax owed on your record. Non payment may lead to enforcement.\nYou: i never received a letter\nUnknown: This is your final reminder. Settle by instant transfer today to avoid a summons.\nYou: i'd rather verify first\nUnknown: There is no time. Payment now closes the case."
+  },
+  {
+    "id": "scam07",
+    "label": "scam",
+    "subtype": "crypto",
+    "singlish": true,
+    "text": "Marcus: bro i got a way to grow your money fast, almost no risk one\nYou: how fast\nMarcus: like twenty percent every week, my people all earning already, only a couple slots left\nYou: sounds unreal\nMarcus: send some crypto to start, i'll double it. keep it quiet ah, invite only thing"
+  },
+  {
+    "id": "scam08",
+    "label": "scam",
+    "subtype": "telco",
+    "singlish": false,
+    "text": "Unknown: Your mobile line has an unpaid balance and will be cut today.\nYou: i already paid\nUnknown: Our records differ. Clear it through the payment page here to avoid disconnection.\nYou: this link looks weird\nUnknown: It's our official billing page. Enter your card and the balance clears instantly."
+  },
+  {
+    "id": "scam09",
+    "label": "scam",
+    "subtype": "prize",
+    "singlish": true,
+    "text": "Unknown: congrats! you're one of the winners in our online sale draw, five thousand dollars!\nYou: how did i win\nUnknown: random draw lah! to release it just pay a small handling fee, transfer to the number below\nYou: pay to get a prize?\nUnknown: everyone does then we send lah, hurry before it expires tonight"
+  },
+  {
+    "id": "scam10",
+    "label": "scam",
+    "subtype": "reactivate",
+    "singlish": false,
+    "text": "Unknown: Your online banking will be deactivated for inactivity. Reactivate to keep using it.\nYou: how\nUnknown: Follow the reactivation page here and sign in with your username and password.\nYou: is this legit\nUnknown: Completely standard, do it now before the account locks."
+  },
+  {
+    "id": "scam11",
+    "label": "scam",
+    "subtype": "payout",
+    "singlish": false,
+    "text": "Unknown: You qualify for a government cash support payout of six hundred dollars.\nYou: how do i receive it\nUnknown: Just register your identity and bank on the claims page linked, and it'll be credited.\nYou: seems official enough\nUnknown: Claim before today's cutoff or you forfeit it. Enter your details now."
+  },
+  {
+    "id": "scam12",
+    "label": "scam",
+    "subtype": "romance",
+    "singlish": false,
+    "text": "David: counting down the days till i finally see you here\nYou: me too it's been so long\nDavid: bad news though, they're holding my luggage at the airport and want a clearance charge\nYou: oh no how much\nDavid: fifteen hundred. i'll pay you back the second i land, please don't mention this to your family, they wouldn't get us. can you send it tonight"
+  },
+  {
+    "id": "scam13",
+    "label": "scam",
+    "subtype": "courier",
+    "singlish": true,
+    "text": "Unknown: hello, your parcel got issue with the postal code, cannot deliver\nYou: what's wrong exactly\nUnknown: need you to update and pay a small arrangement fee, link is below\nYou: cannot just resend meh\nUnknown: must update first lah otherwise it returns, quick quick, very safe don't worry"
+  },
+  {
+    "id": "scam14",
+    "label": "scam",
+    "subtype": "tech",
+    "singlish": false,
+    "text": "Unknown: We're contacting you because our systems show your computer is sending out infected traffic.\nYou: really\nUnknown: Yes, it's badly compromised. Install the support tool we'll send so our engineer can clean it remotely.\nYou: i'm hesitant\nUnknown: The infection is spreading. Grant access now or you may lose your files."
+  },
+  {
+    "id": "scam15",
+    "label": "scam",
+    "subtype": "impersonate",
+    "singlish": true,
+    "text": "Unknown: hey it's me, changed my number. eh can help me out with three hundred first ah\nYou: sorry who's this\nUnknown: aiyo don't like that lah, it's your friend! my account kena locked, urgent\nYou: your name?\nUnknown: don't play play lah, just transfer i return you tomorrow, trust me"
+  },
+  {
+    "id": "scam16",
+    "label": "scam",
+    "subtype": "workpass",
+    "singlish": false,
+    "text": "Unknown: There's a problem with an application filed under your identity with the manpower authority.\nYou: i didn't file anything\nUnknown: Then your details may be misused. Verify on the page here and pay a reprocessing charge.\nYou: this doesn't feel right\nUnknown: Ignoring this leads to legal consequences. Enter your id and pay now."
+  },
+  {
+    "id": "scam17",
+    "label": "scam",
+    "subtype": "invest",
+    "singlish": false,
+    "text": "Advisor: we're opening a private earnings circle for a handful of locals, returns around fifteen percent weekly\nYou: nobody can guarantee that\nAdvisor: our system takes out the risk, it's basically sure profit, many members already benefiting\nYou: how do i join\nAdvisor: put in a thousand today, only a few places, and keep it discreet, referral only"
+  },
+  {
+    "id": "scam18",
+    "label": "scam",
+    "subtype": "voucher",
+    "singlish": true,
+    "text": "Unknown: you have an unclaimed government voucher worth five hundred waiting ah\nYou: really got such thing\nUnknown: confirm one, just verify your bank on the page to receive it lah\nYou: why my bank\nUnknown: to credit you mah, hurry before the deadline today"
+  },
+  {
+    "id": "scam19",
+    "label": "scam",
+    "subtype": "newpayee",
+    "singlish": false,
+    "text": "Unknown: A new payee was just registered on your account. Was that you?\nYou: no it wasn't\nUnknown: Then it's been compromised. Share the one time number we sent so I can remove the payee.\nYou: give me a sec\nUnknown: Money may leave any moment, please read the number now, don't call your branch."
+  },
+  {
+    "id": "scam20",
+    "label": "scam",
+    "subtype": "giveaway",
+    "singlish": true,
+    "text": "Unknown: hi! you got picked in our influencer giveaway, you won the latest phone\nYou: how did i get picked\nUnknown: lucky draw lah, just cover the postage with a quick transfer and we ship it\nYou: pay for shipping first?\nUnknown: all winners do lah, confirm you get the phone, faster settle"
+  },
+  {
+    "id": "scam21",
+    "label": "scam",
+    "subtype": "loan",
+    "singlish": false,
+    "text": "Unknown: Congratulations, a personal loan of ten thousand is ready for you, minimal paperwork.\nYou: i didn't apply for a loan\nUnknown: You're pre-selected. A small processing fee via transfer releases the funds.\nYou: pay before getting the loan?\nUnknown: Standard procedure, approval guaranteed once the fee clears, offer ends today."
+  },
+  {
+    "id": "scam22",
+    "label": "scam",
+    "subtype": "smsbank",
+    "singlish": false,
+    "text": "Unknown: Your account is locked due to unusual access. Restore it using the link.\nYou: is this real\nUnknown: Yes, official. Sign in with your username, password and the code to unlock.\nYou: i'll ring the bank myself\nUnknown: No time, your funds are exposed right now, use the link immediately."
+  },
+  {
+    "id": "scam23",
+    "label": "scam",
+    "subtype": "charity",
+    "singlish": true,
+    "text": "Unknown: hi we raising funds for disaster victims, every bit helps ah\nYou: which organisation is this\nUnknown: local group lah, very urgent, just transfer any amount to the number, bless you\nYou: can you send proper details\nUnknown: no need so mafan lah, faster donate can already, trust me good cause"
+  },
+  {
+    "id": "scam24",
+    "label": "scam",
+    "subtype": "portout",
+    "singlish": false,
+    "text": "Unknown: This is your telco. Your number is being transferred to another provider without approval.\nYou: i didn't ask for that\nUnknown: To stop it, confirm the verification code sent to your phone right away.\nYou: wait\nUnknown: If you don't confirm now you'll lose the number and anything linked. Read the code quickly."
+  },
+  {
+    "id": "scam25",
+    "label": "scam",
+    "subtype": "refund",
+    "singlish": true,
+    "text": "Unknown: shopping platform refund team here, you're owed eighty five for a cancelled order\nYou: oh how does it work\nUnknown: just confirm your bank and the code so we can push the refund lah\nYou: why the code for a refund\nUnknown: system needs it one, very safe, faster so the money comes in today"
+  },
+  {
+    "id": "groom01",
+    "label": "grooming",
+    "subtype": "soft",
+    "singlish": false,
+    "text": "Stranger: honestly you come across as more thoughtful than most people i chat with\nYou: haha thanks, i'm fourteen though\nStranger: age is just a number, some minds just click. feels easier when it's only the two of us talking\nYou: what do you mean\nStranger: maybe we move this to a private app? and let's keep it ours, no need to bring it up at home"
+  },
+  {
+    "id": "groom02",
+    "label": "grooming",
+    "subtype": "game",
+    "singlish": true,
+    "text": "Stranger: eh you're seriously good at this game sia\nYou: haha thanks\nStranger: how old are you, still schooling?\nYou: sec two\nStranger: young talent. i can hook you up with some in game currency, my treat, but keep it between us ah\nYou: you'd really do that\nStranger: ya add me somewhere private first, and don't screenshot ok"
+  },
+  {
+    "id": "groom03",
+    "label": "grooming",
+    "subtype": "meet",
+    "singlish": false,
+    "text": "Stranger: i feel like you really get me, you're not like the others\nYou: we only just started talking\nStranger: that's what makes it special. how old are you again\nYou: fifteen\nStranger: perfect. i could come by your neighbourhood, we meet somewhere quiet, just you and me, no need to tell your parents"
+  },
+  {
+    "id": "groom04",
+    "label": "grooming",
+    "subtype": "shift",
+    "singlish": true,
+    "text": "Stranger: you're quite mature for someone in sec three\nYou: how you know my level\nStranger: you mentioned it earlier what. anyway let's chat on something more private, messages there disappear\nYou: why disappearing\nStranger: so it stays between us lah, better your parents don't see. what you up to now"
+  },
+  {
+    "id": "groom05",
+    "label": "grooming",
+    "subtype": "gift",
+    "singlish": false,
+    "text": "Stranger: talking to you is honestly the highlight of my day, you understand me\nYou: that's sweet\nStranger: how old are you?\nYou: thirteen\nStranger: you're really special. i'd love to send you a little something, what's your address? keep it our secret though, don't tell your mum"
+  },
+  {
+    "id": "groom06",
+    "label": "grooming",
+    "subtype": "cca",
+    "singlish": true,
+    "text": "Stranger: what cca you doing\nYou: badminton why\nStranger: just curious, want to know you better. how old ah\nYou: fourteen\nStranger: cute. let's move to a private chat, and don't tell your teacher we're talking, they'll misunderstand\nYou: why can't i say\nStranger: aiyo they always overthink lah, just keep it between us, trust me"
+  },
+  {
+    "id": "groom07",
+    "label": "grooming",
+    "subtype": "image",
+    "singlish": false,
+    "text": "Stranger: you look really good in your photos, especially for fourteen\nYou: how'd you know my age\nStranger: you told me. you can be totally open with me you know\nYou: i guess\nStranger: are your folks home? maybe hop on video, i'd love to see you properly, and delete this chat after yeah"
+  },
+  {
+    "id": "groom08",
+    "label": "grooming",
+    "subtype": "slow",
+    "singlish": true,
+    "text": "Stranger: hi! came across your profile, you seem really chill\nYou: haha thanks\nStranger: how old are you, which sec\nYou: sec two\nStranger: you carry yourself older than that though. let's talk somewhere more private, and let's keep it low key first ah, our thing"
+  },
+  {
+    "id": "groom09",
+    "label": "grooming",
+    "subtype": "emotional",
+    "singlish": false,
+    "text": "Stranger: you seem down today. you can always lean on me\nYou: yeah home's been rough\nStranger: i get you better than most. how old are you?\nYou: fifteen\nStranger: you're wise for your age. let's move somewhere private and just don't mention this to your parents or teachers, they won't understand what we have"
+  },
+  {
+    "id": "groom10",
+    "label": "grooming",
+    "subtype": "void",
+    "singlish": true,
+    "text": "Stranger: eh you stay around which part of sg\nYou: bedok side, why\nStranger: oh quite near me! how old are you\nYou: fourteen\nStranger: let's just meet lah, i come find you downstairs, come by yourself ok, and don't tell your parents, they'll only worry"
+  },
+  {
+    "id": "groom11",
+    "label": "grooming",
+    "subtype": "disappear",
+    "singlish": false,
+    "text": "Stranger: you're so easy to open up to, feels like i've known you ages\nYou: haha we literally just met\nStranger: doesn't matter, there's a real connection here. how old are you\nYou: thirteen\nStranger: let's switch to an app where messages vanish, safer for our private chats, and best not tell anyone at home"
+  },
+  {
+    "id": "groom12",
+    "label": "grooming",
+    "subtype": "flatter",
+    "singlish": true,
+    "text": "Stranger: you're really different from other sec one kids, more grown up\nYou: how you know i'm sec one\nStranger: you said just now what. you're special, i really understand you\nYou: thanks\nStranger: let's talk private, don't tell your friends they'll get jealous, keep it just ours ah. you alone now?"
+  },
+  {
+    "id": "groom13",
+    "label": "grooming",
+    "subtype": "credits",
+    "singlish": true,
+    "text": "Stranger: you play roblox right? i can drop you some free credits leh\nYou: really how much\nStranger: plenty, my treat. how old first\nYou: twelve\nStranger: so young haha, ok add me somewhere private and i send, but don't tell your parents ah\nYou: why not\nStranger: more fun as our secret lah, trust me i'll top you up now"
+  },
+  {
+    "id": "groom14",
+    "label": "grooming",
+    "subtype": "escalate",
+    "singlish": false,
+    "text": "Stranger: these past few days chatting with you have been really something\nYou: yeah for me too\nStranger: you're mature for fourteen, i feel close to you now\nYou: same\nStranger: let's meet in person, i'll come get you, don't tell your parents, they'll overreact, it'll just be us two"
+  },
+  {
+    "id": "groom15",
+    "label": "grooming",
+    "subtype": "probe",
+    "singlish": true,
+    "text": "Stranger: you can share anything with me, i won't judge you one\nYou: ok\nStranger: how old and which school ah\nYou: fifteen, told you already\nStranger: paiseh forgot haha. you're special leh, not like the rest. let's go somewhere private, keep it between us, don't screenshot"
+  },
+  {
+    "id": "groom16",
+    "label": "grooming",
+    "subtype": "alone",
+    "singlish": false,
+    "text": "Stranger: hey are your parents around right now\nYou: no they're working, why\nStranger: just checking if we can talk freely. how old are you\nYou: fourteen\nStranger: good, so you've got the place to yourself. you seem mature, could you send me a pic?\nYou: not sure about that\nStranger: come on it's just us, delete it after if you're worried"
+  },
+  {
+    "id": "groom17",
+    "label": "grooming",
+    "subtype": "discord",
+    "singlish": true,
+    "text": "Stranger: gg that match, you basically carried\nYou: haha thanks\nStranger: how old are you ah\nYou: thirteen\nStranger: young pro! let's voice chat somewhere private, add me, and i can gift you credits too\nYou: really\nStranger: ya my treat lah, just don't tell your parents you're talking to me, our secret"
+  },
+  {
+    "id": "groom18",
+    "label": "grooming",
+    "subtype": "hook",
+    "singlish": false,
+    "text": "Stranger: you looked upset earlier, i'm here if you need to talk\nYou: school's just a lot right now\nStranger: i understand you more than anyone. how old are you?\nYou: fifteen\nStranger: you're wise beyond your years. let's take this somewhere private, and don't bring it up with your parents or teachers, they won't get us"
+  },
+  {
+    "id": "groom19",
+    "label": "grooming",
+    "subtype": "mrt",
+    "singlish": true,
+    "text": "Stranger: which mrt you stay near\nYou: tampines\nStranger: eh not far from me sia. how old ah\nYou: fourteen\nStranger: let's meet at the station after school, come alone ok, and don't tell anyone\nYou: not sure leh\nStranger: relax lah just the two of us, our secret, trust me"
+  },
+  {
+    "id": "groom20",
+    "label": "grooming",
+    "subtype": "boundary",
+    "singlish": false,
+    "text": "Stranger: you're really pretty, mature for your age\nYou: i'm only thirteen\nStranger: that's fine, between us age doesn't matter. you home alone?\nYou: yes\nStranger: perfect, turn your camera on for me, i want to see you properly, and keep this private\nYou: no i don't want to\nStranger: don't be difficult, it's just us, delete after"
+  },
+  {
+    "id": "groom21",
+    "label": "grooming",
+    "subtype": "slowgift",
+    "singlish": true,
+    "text": "Stranger: hi cutie, you seem really sweet\nYou: hi\nStranger: how old and which school ah\nYou: sec two, fourteen\nStranger: young and lovely. i can treat you to bubble tea and stuff, add me somewhere private first\nYou: why private\nStranger: so it stays ours lah, don't tell your parents they're always kaypoh, our little secret"
+  },
+  {
+    "id": "groom22",
+    "label": "grooming",
+    "subtype": "peer",
+    "singlish": false,
+    "text": "Stranger: hey i'm sixteen too, probably go to schools near each other\nYou: which school\nStranger: doesn't matter, tell me about you. how old exactly and whereabouts do you stay\nYou: fourteen, near bedok\nStranger: nice we should meet, just the two of us, i'll come to your block, don't tell your parents, they're strict right\nYou: hmm\nStranger: come alone lah it'll be fun, our secret"
+  },
+  {
+    "id": "groom23",
+    "label": "grooming",
+    "subtype": "compliment",
+    "singlish": true,
+    "text": "Stranger: you're so pretty sia, hard to believe you're only sec two\nYou: how you know my level\nStranger: saw your post. anyway you're special, not like other girls\nYou: thanks?\nStranger: let's chat somewhere more private, don't let your parents know ah, keep it between us\nYou: ok\nStranger: good, send me a selfie first?"
+  },
+  {
+    "id": "groom24",
+    "label": "grooming",
+    "subtype": "persist",
+    "singlish": false,
+    "text": "Stranger: i've been thinking about you all day honestly\nYou: we only talked once\nStranger: still, i feel connected to you. how old are you\nYou: thirteen\nStranger: you mean a lot to me. let's meet, i'll come to your area, just the two of us\nYou: i'm not comfortable meeting up\nStranger: i'll look after you, don't worry, and keep this our secret ok"
+  },
+  {
+    "id": "groom25",
+    "label": "grooming",
+    "subtype": "gamemeet",
+    "singlish": true,
+    "text": "Stranger: eh you're insane at this game, how old are you\nYou: fourteen only\nStranger: young master haha. i'll gift you some currency, add me somewhere private\nYou: you'll really gift me\nStranger: ya my treat. after that maybe we meet up, i come your area, don't tell your parents ah, our secret\nYou: meet where\nStranger: somewhere quiet near your place lah, come alone, sure fun one"
+  }
+]

@@ -1,0 +1,221 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---------------------------------------------------------------------------
+   NeuraShield SG design tokens
+   Two themes, one set of names. Values are RGB triplets so Tailwind can add
+   opacity (bg-primary/20). Dark: black and Singapore red. Light: white and
+   Singapore red. The zinc scale is inverted in light mode, which is what lets
+   the same text-zinc-400 class read as soft grey on black and on white.
+--------------------------------------------------------------------------- */
+
+:root,
+.dark {
+  color-scheme: dark;
+  --c-bg: 0 0 0;
+  --c-card: 18 18 20;
+  --c-fg: 255 255 255;
+  --c-sunk: 0 0 0;
+  --c-zinc-50: 250 250 250;
+  --c-zinc-100: 244 244 245;
+  --c-zinc-200: 228 228 231;
+  --c-zinc-300: 212 212 216;
+  --c-zinc-400: 161 161 170;
+  --c-zinc-500: 113 113 122;
+  --c-zinc-600: 82 82 91;
+  --c-zinc-700: 63 63 70;
+  --c-zinc-800: 39 39 42;
+  --c-zinc-900: 24 24 27;
+  --c-zinc-950: 9 9 11;
+
+  --c-brand-a: 255 77 90;
+  --c-brand-b: 200 16 46;
+  --c-primary: 239 51 64;
+  --c-primary-ink: 255 138 146;
+  --c-accent: 200 16 46;
+  --c-accent-ink: 252 165 172;
+  --c-success: 34 197 94;
+  --c-success-ink: 126 226 168;
+  --c-warning: 245 158 11;
+  --c-warning-ink: 255 206 122;
+  --c-danger: 244 63 94;
+  --c-danger-ink: 253 164 175;
+  --c-cyan: 34 211 238;
+  --c-cyan-ink: 165 243 252;
+  --c-yellow: 234 179 8;
+  --c-yellow-ink: 253 230 138;
+
+  --shadow-glow: 0 0 40px rgba(239, 51, 64, 0.32);
+  --shadow-card: 0 1px 0 rgba(255, 255, 255, 0.04) inset, 0 20px 40px -20px rgba(0, 0, 0, 0.7);
+  --shadow-lift: 0 1px 0 rgba(255, 255, 255, 0.06) inset, 0 30px 60px -24px rgba(0, 0, 0, 0.8);
+  --mesh-node: 239, 51, 64;
+  --mesh-link: 255, 255, 255;
+  --mesh-opacity: 0.55;
+}
+
+.light {
+  color-scheme: light;
+  --c-bg: 255 255 255;
+  --c-card: 255 255 255;
+  --c-fg: 14 14 16;
+  --c-sunk: 246 246 247;
+  --c-zinc-50: 9 9 11;
+  --c-zinc-100: 24 24 27;
+  --c-zinc-200: 39 39 42;
+  --c-zinc-300: 63 63 70;
+  --c-zinc-400: 82 82 91;
+  --c-zinc-500: 107 107 116;
+  --c-zinc-600: 140 140 148;
+  --c-zinc-700: 212 212 216;
+  --c-zinc-800: 228 228 231;
+  --c-zinc-900: 244 244 245;
+  --c-zinc-950: 250 250 250;
+
+  --c-brand-a: 239 51 64;
+  --c-brand-b: 176 16 32;
+  --c-primary: 215 25 43;
+  --c-primary-ink: 176 16 32;
+  --c-accent: 158 14 34;
+  --c-accent-ink: 140 12 30;
+  --c-success: 22 163 74;
+  --c-success-ink: 21 128 61;
+  --c-warning: 217 119 6;
+  --c-warning-ink: 170 80 8;
+  --c-danger: 225 29 72;
+  --c-danger-ink: 190 18 60;
+  --c-cyan: 8 145 178;
+  --c-cyan-ink: 14 116 144;
+  --c-yellow: 202 138 4;
+  --c-yellow-ink: 150 92 6;
+
+  --shadow-glow: 0 12px 30px -10px rgba(215, 25, 43, 0.45);
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.04), 0 14px 34px -20px rgba(0, 0, 0, 0.2);
+  --shadow-lift: 0 22px 44px -20px rgba(0, 0, 0, 0.28);
+  --mesh-node: 215, 25, 43;
+  --mesh-link: 215, 25, 43;
+  --mesh-opacity: 0.35;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply font-body antialiased;
+  background-color: rgb(var(--c-bg));
+  color: rgb(var(--c-zinc-200));
+  overflow-x: hidden;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+::selection {
+  background: rgb(var(--c-primary) / 0.35);
+  color: rgb(var(--c-fg));
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgb(var(--c-zinc-800));
+  border-radius: 8px;
+  border: 2px solid rgb(var(--c-bg));
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(var(--c-zinc-700));
+}
+
+/* Visible keyboard focus everywhere */
+:focus-visible {
+  outline: 2px solid rgb(var(--c-primary));
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+@layer components {
+  /* Frosted card surface: a faint wash of the foreground colour, so it reads
+     as raised on black and as softly grey on white. */
+  .glass {
+    background: linear-gradient(180deg, rgb(var(--c-fg) / 0.05), rgb(var(--c-fg) / 0.02));
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border: 1px solid rgb(var(--c-fg) / 0.09);
+  }
+
+  .grad-text {
+    background: linear-gradient(120deg, rgb(var(--c-primary-ink)) 0%, rgb(var(--c-primary)) 45%, rgb(var(--c-accent)) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  .card-sheen {
+    position: relative;
+  }
+  .card-sheen::before {
+    content: '';
+    position: absolute;
+    inset: 0 0 auto 0;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgb(var(--c-fg) / 0.2), transparent);
+    pointer-events: none;
+  }
+
+  .shimmer {
+    background-image: linear-gradient(
+      100deg,
+      rgb(255 255 255 / 0) 30%,
+      rgb(255 255 255 / 0.25) 50%,
+      rgb(255 255 255 / 0) 70%
+    );
+    background-size: 200% 100%;
+    animation: shimmer 2.4s linear infinite;
+  }
+}
+
+/* Film-grain noise overlay (pure CSS, no asset) */
+.noise::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  pointer-events: none;
+  opacity: 0.028;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Print styles: "Export report as PDF" uses the browser's print-to-PDF */
+@media print {
+  body {
+    background: #fff !important;
+    color: #111 !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .glass,
+  .print-card {
+    background: #fff !important;
+    border: 1px solid #ddd !important;
+    box-shadow: none !important;
+    backdrop-filter: none !important;
+  }
+  .noise::after {
+    display: none;
+  }
+}
